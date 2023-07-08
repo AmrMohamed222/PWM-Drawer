@@ -5,7 +5,6 @@
  *      Author: user
  */
 
-
 #include"LIB/STD_Type.h"
 #include"LIB/BIT_MATH.h"
 #include"MCAL/MDIO/MDIO_Interface.h"
